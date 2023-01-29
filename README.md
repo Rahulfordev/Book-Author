@@ -5,4 +5,4 @@
 
 💙 Join the channel to see more videos like this. [Learndailyteam](https://www.youtube.com/c/Learndailyteam)
 
-![preview img](https://github.com/Rahulfordev/img-file/blob/main/NFT%20React%20JS-1.png)
+![preview img](https://github.com/Rahulfordev/img-file/blob/main/book-reviews-2.png)

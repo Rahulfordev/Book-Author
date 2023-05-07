@@ -1,0 +1,47 @@
+@media (prefers-reduced-motion: no-preference) {
+  :root {
+    scroll-behavior: smooth;
+  }
+}
+
+.scroll {
+  scroll-behavior: smooth;
+}
+
+::selection {
+  color: #fff;
+  background-color: #c27b7f;
+}
+
+a {
+  text-decoration: none;
+  color: #2f4858;
+  transition: .3s;
+}
+
+body {
+  box-sizing: border-box;
+}
+
+.section-wrapper {
+  overflow-x: hidden;
+}
+
+.bg-one {
+  background-color: #f5ebe6;
+}
+
+.section-padding {
+  padding: 80px 0;
+}
+
+#preLoader {
+  position: fixed;
+  height: 100vh;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  animation: preloader 1s 1s linear forwards;
+  background-origin: #fff;
+}

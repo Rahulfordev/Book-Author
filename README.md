@@ -4,4 +4,4 @@
 
 
 
-![preview img](https://github.com/Rahulfordev/img-file/blob/main/book-reviews-2.png)
+![preview img](./public/assets/images/book-reviews-2.png)

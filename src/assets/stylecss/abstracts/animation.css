@@ -1,0 +1,17 @@
+@keyframes preloader {
+  100% {
+    top: 100%;
+  }
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -100%, 0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translateZ(0);
+  }
+}

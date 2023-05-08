@@ -2,4 +2,6 @@
 
 @import './base/base.css';
 @import './base/typography.css';
-@import './components/header.css'
+
+@import './components/header.css';
+@import './components/hero.css'

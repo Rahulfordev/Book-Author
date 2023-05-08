@@ -20,7 +20,7 @@
 .header .navbar {
   border: 0px;
   margin-top: 30px;
-  padding: 0 15px;
+  padding: 12px 15px;
   top: 0;
   left: 0;
   z-index: 100;
@@ -37,13 +37,13 @@
 }
 
 .header .navbar .navbar-nav li a:hover,
-.header .navbar .navbar-nav li a:active {
+.header .navbar .navbar-nav li a.active {
   color: #c27b7f;
   background-color: none;
 }
 
 .header .navbar .navbar-nav li a:hover:after,
-.header .navbar .navbar-nav li a:active:after {
+.header .navbar .navbar-nav li a.active:after {
   opacity: 1;
   bottom: 0;
 }

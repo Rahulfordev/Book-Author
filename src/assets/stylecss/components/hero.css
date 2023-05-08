@@ -1,3 +1,7 @@
+.hero {
+    height: 100vh;
+}
+
 .hero__padding {
     padding-top: 200px;
     padding-bottom: 100px;
@@ -22,8 +26,8 @@
 .hero__content form input {
     border: 0;
     border-radius: 5px;
-    box-shadow: 2px 0px 15px 5px rgba(1, 6, 33, 0.06);
-    padding: 15px 15px;
+    box-shadow: 2px 0px 15px 5px rgba(1, 6, 33, .06);
+    padding: 15px;
     width: 300px;
 }
 
